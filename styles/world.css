@@ -242,7 +242,7 @@ body {
 }
 
 .pictures {
-    width: 1200px;
+    width: 1200px !important;
     margin: 0 auto;
     justify-content: center;
     align-items: center;
